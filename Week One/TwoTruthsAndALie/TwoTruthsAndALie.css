@@ -1,0 +1,34 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.wrapper {
+    border: solid thick black;
+    border-radius: 90px;
+    background-color: grey;
+}
+
+.truth {
+    text-align: center;
+    border: solid thick black;
+    border-radius: 90%;
+    background-color: lightgrey;
+    height: 15vh;
+    width: 30vw;
+}
+
+#align {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
